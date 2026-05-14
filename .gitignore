@@ -1,0 +1,16 @@
+# Dependencias
+node_modules/
+dist/
+
+# Variables de entorno — NUNCA subir
+.env
+.env.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
